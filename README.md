@@ -1,5 +1,6 @@
 rpi_ws281x
 ==========
+--- Not yet compatible with Raspi 5 ---
 
 Userspace Raspberry Pi library for controlling WS281X LEDs.
 This includes WS2812 and SK6812RGB RGB LEDs
